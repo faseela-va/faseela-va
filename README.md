@@ -1,6 +1,8 @@
 -👋 Greetings! Welcome to my GitHub profile!
-- 👋 Hi, I’m @faseela-va !
-- a passionate Computer Science student specializing in Data Analytics. 💻📊
+
+👋 Hi, I’m @faseela-va !
+  
+ a passionate Computer Science student specializing in Data Analytics. 💻📊
 🎓As a student pursuing data analytics, I'm continuously expanding my knowledge and honing my skills to excel in this dynamic field. From performing exploratory data analysis to building predictive models, I find immense joy in leveraging data to solve complex problems and drive informed decision-making.
 
 
