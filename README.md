@@ -12,7 +12,10 @@ Within this GitHub profile, you'll discover a variety of projects that exemplify
 
 Feel free to explore my repositories and projects. 🚀 Excited to collaborate on projects, learn from others, and contribute to the thriving community here on GitHub!
 Together, we can leverage the power of data to make a meaningful impact in our world.
-Thank you for visiting my GitHub profile. 📫Let's connect, learn, and shape the future of data analytics!
+
+Thank you for visiting my GitHub profile. 
+
+📫Let's connect, learn, and shape the future of data analytics!
 
 
 <!---
